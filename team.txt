@@ -2,3 +2,4 @@ leader : royden zulfai hutapea
 staff : kusung
 staff pembantu : kasino
 tambah satu lagi
+print ('kompas')
